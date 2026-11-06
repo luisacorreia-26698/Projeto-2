@@ -1,0 +1,15 @@
+#titulo_1{color:darkred; font-family:Comic Sans MS; font-size:36px;|}
+#hiperligação{color:black; font-weight:bold; background-color:darkred; border:1px solid gray; display:inline-block; padding:8px; font-family:Courier New; font-size:16px;|}
+.titulo{color:darkred; font-family:Comic Sans MS; font-size:28px;|}
+.fundo{background-color:#FFD94D;|}
+.caixa{font-weight:bold; background-color:#FFE880; border:1px solid gray; display:inline-block; padding:8px; font-family:Courier New; font-size:15px;|}
+.img{width: 200px; height: auto;}
+/*
+Mecanismo de avaliação metacognitiva
+1-Desafio Técnico*
+  O maior desafio técnico que enfrentei ao realizar este trabalho foi, inicialmente, compreender a lógica geral de aplicação do css e, mais tarde, perceber em que situação usar um elemento class (.class) ou um elemento id (#id) para estilizar os elementos da minha página. Superei esta dificuldade ao testar (e estudar mais a fundo) as regras no código e analisar o seu impacto visual no browser.
+2-Correção de Sintaxe
+  O erro de código mais comum que cometi durante o desenvolvimento desta página foi a omissão do ponto e vírgula (;) no final das propriedades css. Detetei este erro ao atualizar a página na web e perceber que as propriedades não estavam a ser aplicadas. Isto levou-me a rever o ficheiro no Notepad++ e a corrigir este erro.
+3-Atributo src
+  O atributo src, proveniente da palavra source (origem/fonte, em português) é utilizado na linguagem html para indicar ao browser o caminho exato ou a localização do ficheiro de imagem que deve ser carregado e mostrado na web. 
+*/
